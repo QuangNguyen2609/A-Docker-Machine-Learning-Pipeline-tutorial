@@ -1,0 +1,11 @@
+google-api-python-client==2.61.0
+pathlib==1.0.1
+google-cloud-storage==2.5.0
+schedule==1.1.0
+dnspython==2.2.1
+pymongo==4.2.0
+python-dotenv==0.21.0
+Pillow
+torch<=1.12.1
+torchvision<=0.13.1
+numpy
