@@ -9,7 +9,8 @@ run dockerized image
 `docker run -p 8000:8000 -t cloud`
 
 ## STEP 3 ##
-tagging image with repo path (create repo before this)
+tagging image with repo path (create repo before this) 
+
 `docker tag cloud quangnguyennnnn/cloud-training:pytorch-cloud`
 
 ## STEP 4 ##
