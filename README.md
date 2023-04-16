@@ -49,7 +49,7 @@ Use the following command to run the whole program:
 
 `docker run quangnguyennnnn/cloud-training:pytorch-cloud`
 
-## STEP 8 (Optional) ##
+### STEP 8 (Optional) ###
 Use the following command to access to the source code
 `docker run -it quangnguyennnnn/cloud-training:pytorch-cloud /bin/bash`
 
