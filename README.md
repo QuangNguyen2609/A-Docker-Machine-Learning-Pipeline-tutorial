@@ -1,4 +1,4 @@
-# Cloud Training with PyTorch
+# Cloud Training and Dockerization with PyTorch 
 
 This project builds a data pipeline that pulls data from Google Cloud, preprocesses it, stores it in MongoDB, and trains machine learning models using PyTorch.
 
